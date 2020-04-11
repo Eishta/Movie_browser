@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GSIV20_Eishta_Mittal/static/css/main.5f361e03.chunk.css",
+    "main.js": "/GSIV20_Eishta_Mittal/static/js/main.c72fda83.chunk.js",
+    "main.js.map": "/GSIV20_Eishta_Mittal/static/js/main.c72fda83.chunk.js.map",
+    "runtime-main.js": "/GSIV20_Eishta_Mittal/static/js/runtime-main.226a03e6.js",
+    "runtime-main.js.map": "/GSIV20_Eishta_Mittal/static/js/runtime-main.226a03e6.js.map",
+    "static/js/2.70a997b6.chunk.js": "/GSIV20_Eishta_Mittal/static/js/2.70a997b6.chunk.js",
+    "static/js/2.70a997b6.chunk.js.map": "/GSIV20_Eishta_Mittal/static/js/2.70a997b6.chunk.js.map",
+    "index.html": "/GSIV20_Eishta_Mittal/index.html",
+    "precache-manifest.7123d01212c065c84a4977a50ecc467a.js": "/GSIV20_Eishta_Mittal/precache-manifest.7123d01212c065c84a4977a50ecc467a.js",
+    "service-worker.js": "/GSIV20_Eishta_Mittal/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/GSIV20_Eishta_Mittal/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.70a997b6.chunk.js.LICENSE.txt": "/GSIV20_Eishta_Mittal/static/js/2.70a997b6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/GSIV20_Eishta_Mittal/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.226a03e6.js",
+    "static/js/2.70a997b6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c72fda83.chunk.js"
+  ]
+}
