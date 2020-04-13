@@ -1,0 +1,13 @@
+.heading{
+    font-size: larger;
+    font-weight: bold;
+}
+.light {
+    color: #DFDFDF;
+}
+.label {
+    font-weight: 500;
+}
+.desc {
+    display: inline
+}
